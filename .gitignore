@@ -1,0 +1,15 @@
+# Resultados do Robot Framework
+output.xml
+log.html
+report.html
+results/
+
+# Capturas de tela (Screenshots)
+*.png
+
+# Configurações do VS Code
+.vscode/
+
+# Pastas de ambiente virtual (caso use)
+venv/
+.venv/
